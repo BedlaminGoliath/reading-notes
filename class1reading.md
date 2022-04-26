@@ -19,7 +19,7 @@ I very much so like the simplicity of making a list with markdown though opposed
 # list 
  1. list item 1
  1. list item 2
-  1. nested list item
+   1. nested list item
  1. list item 3 
 
 
