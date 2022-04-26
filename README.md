@@ -30,5 +30,5 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 - Most importantly: You have got to keep making more money to keep the guitar pedals comning in and the squirrels (and wife) fed :shipit:
 
 #### Contact
-*email* [email](mailto:chris_lopez@mailfence.com)
+[*email*](mailto:chris_lopez@mailfence.com)
 
