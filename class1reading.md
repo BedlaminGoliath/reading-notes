@@ -2,7 +2,7 @@
 
 ## Styling syntax
 my reading I learned several things about the markdown syntax.
-I learned how relitively easy it is to do several things with mark down. One of the easiest being the header "tag" as opposed to `` <h1> - <h6> `` this is done with a pound sign.
+I learned how relitively easy it is to do several things with mark down. One of the easiest being the header "tag", which is the "poundsign" (1 poundsign for a big header and up to 6 poundsigns for a smaller header) as opposed to `` <h1> - <h6> `` this is done with a pound sign.
 the **bold** and *italics* syntacs are pretty straight forward and makes sense when i realized that > two(``**``) means important! and one (``*``) means "style".
 
 ## Quoting
