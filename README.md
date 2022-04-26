@@ -5,7 +5,6 @@ Hello, my name is Christopher Lopez, I am 32 and currently work at Trader Joe's 
 I grew up in a house where music 🎶 was a top "prioty". I grew up a drummer like my father and brother but of course learning to play several instrumemts was a *must* as well. besides ~~playing~~ *knowing* Drums well I feel proficient with playing the guitar 🎸. However I can play others, but mainly based off of my study of music theory in college several years ago and not so much based off of the technical aspect of each intrument. Besides playing music i love listening to music of differet genres, my big time **favorites** have largely remained the same over the years. 
         
 ### What I am listening to now
-                <img src=https://user-images.githubusercontent.com/99520664/165301525-30ec5f58-c974-4876-a852-9caea0b7fe8c.jpeg width=200 height=400>
 - The Mars Volta 
 - At The Drive-in
 - Omar Rodriguez-Lopez (no relation)
@@ -23,11 +22,13 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 - Life has proven to be a tough, it might as well be tough while you work towards a life that is fulfilling.
 - Similar Actions will acrue similar results, only when you change will you find a different result.
 
+![Bonus Round](https://user-images.githubusercontent.com/99520664/165210146-6e5b5c21-6cff-448b-8510-1b95fe7f7cf5.jpeg)
+
 ## *Bonus Round* 
 ### (how to keep a growth mindset)
 
-![Bonus Round](https://user-images.githubusercontent.com/99520664/165210146-6e5b5c21-6cff-448b-8510-1b95fe7f7cf5.jpeg)
-
-
-
 - Most importantly: You have got to keep making more money to keep the guitar pedals comning in and the squirrels (and wife) fed :shipit:
+
+#### Contact
+*email* [email]mailto:chris_lopez@mailfence.com]
+
