@@ -16,8 +16,8 @@ The ease of sharing images are also very pleasing feature, that once again is co
 Although this seems specific to [github](https://www.github.com) this is a very awesome feature.
 
 ## Perhaps the most pleasing thing i learned.
-I very much so like the simplicity of making a *table* with markdown though opposed to the ```<table>
-      <tr>
+I very much so like the simplicity of making a *table* with markdown though opposed to the ```<table>```
+      ```<tr>``\
        <th>text</th>
       </tr>
       <tr>
