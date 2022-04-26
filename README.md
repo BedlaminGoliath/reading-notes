@@ -6,7 +6,7 @@ I grew up in a house where music 🎶 was a top "prioty". I grew up a drummer li
 
 ### What I am listening to now
 
-- The Mars Volta 
+- The Mars Volta![Frances The Mute](https://user-images.githubusercontent.com/99520664/165208700-1a8fb203-3604-4636-ab99-1d3df79209aa.jpeg) 
 - At The Drive-in
 - Omar Rodriguez-Lopez (no relation)
 - Aesop Rock
