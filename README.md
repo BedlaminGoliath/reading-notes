@@ -1,4 +1,4 @@
-# My Growth Mindset, How I intend to keep it, and alittle bit about myself.
+# My growth mindset, how I intend to keep it, and alittle bit about myself.
 
 ## About myself 
 Hello, my name is Chrisopher Lopez, I am 32 and currently work at Trader Joe's and I have been with that company for rougly **14 YEARS!!**.
