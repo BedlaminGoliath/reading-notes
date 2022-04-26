@@ -5,6 +5,7 @@ Hello, my name is Christopher Lopez, I am 32 and currently work at Trader Joe's 
 I grew up in a house where music 🎶 was a top "prioty". I grew up a drummer like my father and brother but of course learning to play several instrumemts was a *must* as well. besides ~~playing~~ *knowing* Drums well I feel proficient with playing the guitar 🎸. However I can play others, but mainly based off of my study of music theory in college several years ago and not so much based off of the technical aspect of each intrument. Besides playing music i love listening to music of differet genres, my big time **favorites** have largely remained the same over the years. 
         
 ### What I am listening to now
+                ![record player](https://github.com/BedlaminGoliath/reading-notes/commit/0a868d9190f88a7fa8b741cef19a368062aec628#commitcomment-72212966)
 - The Mars Volta 
 - At The Drive-in
 - Omar Rodriguez-Lopez (no relation)
