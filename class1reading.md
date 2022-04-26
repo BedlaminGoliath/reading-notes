@@ -10,11 +10,11 @@ The block quote seemed top be very interesting feature in instances where sharin
 The "block quotes with multiple paragraphs" is also a really neat featurei have yet to come across prior top this.
 
 ## Links/Images 
-The easy use of the [link text](example.com) in place of what be an anchor tag, makes sharing links and creating interactive contacts (like email socail media links) extremely easy and intuitive. This "language" is very straight forwards and seems to offer very clean "code"(can i say that?)
+The easy use of the "link feature ``[link text](example.com)`` in place of what be an anchor tag, makes sharing links and creating interactive contacts (like email socail media links) extremely easy and intuitive. This "language" is very straight forwards and seems to offer very clean "code"(can i say that?)
 The ease of sharing images are also very pleasing feature, that once again is concise and straight forward.
 
 ## The "specificy theme image is pretty awesome as well.
-Although this seems specific to [github] (https://www.github.com) this is a very awesome feature.
+Although this seems specific to [github](https://www.github.com) this is a very awesome feature.
 
 ## Perhaps the most pleasing thing i learned.
 I very much so like the simplicity of making a *table* with markdown though opposed to all  the syntax used in HTML/
