@@ -11,7 +11,7 @@ The "block quotes with multiple paragraphs" is also a really neat featurei have 
 
 ## Links/Images 
 The easy use of the "link feature" ``[link text](example.com)`` in place of what be an anchor tag, makes sharing links and creating interactive contacts (like email socail media links) extremely easy and intuitive. This "language" is very straight forwards and seems to offer very clean "code"(can i say that?)
-The ease of sharing images are also very pleasing feature, that once again is concise and straight forward.
+The ease of sharing images are also very pleasing feature, that once again is straight forward.
 ![bonus round image](https://user-images.githubusercontent.com/99520664/165210146-6e5b5c21-6cff-448b-8510-1b95fe7f7cf5.jpeg)
 
 ## The "specificy theme image is pretty awesome as well.
