@@ -22,8 +22,11 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 - Life has proven to be a tough, it might as well be tough while you work towards a life that is fulfilling.
 - Similar Actions will acrue similar results, only when you change will you find a different result.
 
-### *Bonus Round* (how to keep a growth mindset)
+## *Bonus Round* 
+### (how to keep a growth mindset)
 
 ![Bonues Round](https://user-images.githubusercontent.com/99520664/165210146-6e5b5c21-6cff-448b-8510-1b95fe7f7cf5.jpeg)
+
+
 
 - Most importantly: You have got to keep making more money to keep the guitar pedals comning in and the squirrels (and wife) fed :shipit:
