@@ -13,16 +13,9 @@ The easy use of the ```[link text](example.com)``` in place of what be an anchor
 The ease of sharing images are also very pleasing feature, that once again is concise and straight forward.
 
 ## The "specificy theme image is pretty awesome as well.
-Although this seems specific to [github](https://www.github.com) this is a very awesome feature.
+Although this seems specific to [github] (https://www.github.com) this is a very awesome feature.
 
 ## Perhaps the most pleasing thing i learned.
-I very much so like the simplicity of making a *table* with markdown though opposed to the ```<table>```
-      ```<tr>``\
-       <th>text</th>
-      </tr>
-      <tr>
-       <td>text</td>
-      </tr>
-    </table>```
-that is used on HTML.
+I very much so like the simplicity of making a *table* with markdown though opposed to all  the syntax used in HTML/
+that is used in HTML.
     
