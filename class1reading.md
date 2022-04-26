@@ -18,4 +18,4 @@ Although this seems specific to [github] (https://www.github.com) this is a very
 ## Perhaps the most pleasing thing i learned.
 I very much so like the simplicity of making a *table* with markdown though opposed to all  the syntax used in HTML/
 that is used in HTML.
-    
+     
