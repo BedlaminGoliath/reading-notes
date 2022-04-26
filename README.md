@@ -25,7 +25,7 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 ## *Bonus Round* 
 ### (how to keep a growth mindset)
 
-![Bonues Round](https://user-images.githubusercontent.com/99520664/165210146-6e5b5c21-6cff-448b-8510-1b95fe7f7cf5.jpeg)
+![Bonus Round](https://user-images.githubusercontent.com/99520664/165210146-6e5b5c21-6cff-448b-8510-1b95fe7f7cf5.jpeg)
 
 
 
