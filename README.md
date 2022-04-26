@@ -12,7 +12,9 @@ I grew up in a house where music 🎶 was a top "prioty". I grew up a drummer li
 - MF**DOOM**(All caps when you spell his name 😉)
 
 ## My Idea of a "Growth Mindset"
+
                                   > you miss 100% of shots you dont take - Micheal Scott
+
 ### Kaizen: *change for the better*
 For Me A growth mindset is about perseverance. Its about "Showing up" and giving yourself **OVER TO** what ever you are learning (or taking part in).It is about making sure my current "best day" is equivilant to my future selfs "worst day"  and to continue growing,learning, and ultimatly finding new ways to discover and learn not only about my skateboarding/Music/task at hand, but also about myself and what I require to have input and stellar free flowing output on any given day. This is about not observes everything as challenges or simply *choices* but as **oppportunities** to better yourself therefore creating a special place for your loved ones.
 
