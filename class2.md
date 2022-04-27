@@ -25,4 +25,17 @@ The conecept of an IDE is sort of like a box store like TARGET, it not only carr
 ![Drama Bomb](https://user-images.githubusercontent.com/99520664/165584450-f83632e1-bdb8-41c9-9b4e-325dd3088c6b.jpeg)
 
 # Chapter 2: GUI and THE TERMINAL!!!
-most people assume and likely dont care too much to aknowledge what actually goes on within the computer and how it works, however some people do and we are likely those people. Most folks boot up ther computer, wait a few seconds and then enter their password and then off to the races to watch as many cat videos as possible, while listening to a podcat they enjoy all the while they are looking for a new spanish rice recipe. 
+most people assume and likely dont care too much to aknowledge what actually goes on within the computer and how it works, however some people do and we are likely those people. Most folks boot up ther computer, wait a few seconds and then enter their password and then off to the races to watch as many cat videos as possible, while listening to a podcat they enjoy all the while they are looking for a new spanish rice recipe. What seems to ~~mean~~ matter most, is the GUI (graphic user interface) you know the thing that essentially uses graphics (pointer, folders, you know all of it) to help you get from point A to point B.. But, what if i told you there was a way to navigate without the use of a GUI... well its possible, with the terminal. The terminal is that awesome little black box with boring letters that everyone has likely seen atleast once in their life. That little black box for me always looked so cool and i would leave it open to just feel like a hacker. However that Terminal is a bit more useful that cool looks, you are able to navigate from folder to folder in search for that special file.Actually you are able top even create a new file with the terminal, hell you can even destroy files (not as dramatic as that, but in a sense its true.) The termional is actually a very fast way to navigate and can improve the speed of your workflow.
+# Commands 
+Opening the terminal is easy enough, especially for Mac users. In order to open the terminal on a Mac its as easy as searching under applications and finding the terminal, you can even hit the "search" glass and search for "terminal" and voala! Thaty beutiful black box (terminal has walked in.)
+When the terminal opens it is safe to assume you will find text already there, no usually the first thing that happens is you will enter a command into the terminal. Usually following the command you will get "command line arguements" (usually has a space between command and first cmd line arguememts). Of course After we put forth our command we will likely receive a output that usually is displayed right under the command itself (like a conversation), however unlike some conversations if you did something "wrong" or something is missing within your command then you recieve an error. then rinse and repeat (so to speak).
+# Shells
+Within terminals you have what is known as a shell, the shell and that bad boy is pretty much looks after how your terminal is running. A very common shell is called a *BASH* (Bourne again shell)
+# Fun Stuff
+Below I will note a "cheat sheet" for common shortcuts that will help navigate this new world.
+1. **pwd** (Printing Working Directory): Tells you your current Space.
+2. **LS** (List) 
+3. **LS -l** (long list. Which states weither file is directoy (d)or normal file (-) with more inso stating permission, number of block, owner, group file belongs too. [^2]
+4.  
+
+
