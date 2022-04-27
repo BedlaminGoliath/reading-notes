@@ -36,8 +36,21 @@ Within terminals you have what is known as a shell, the shell and that bad boy i
 # Fun Stuff
 Below I will note a "cheat sheet" for common shortcuts that will help navigate this new world.
 1. **pwd** (Printing Working Directory): Tells you your current Space.
-2. **LS** (List) 
-3. **LS -l** (long list. Which states weither file is directoy (d)or normal file (-) with more inso stating permission, number of block, owner, group file belongs too. [^2]
-4.
+2. **lS** (List) 
+3. **lS -l** (long list. Which states weither file is directoy (d)or normal file (-) with more inso stating permission, number of block, owner, group file belongs too. [^2]
+4.(~) Is a short cut to home directory.
+5.(.) Is a reference to current directory.
+6.(..) Is a reference to parent directory.
+
+# Paths (relative & absolute) 
+While utilizing the terminal of course you will have to get around, to do so you will need to use different paths. A reltive path is the item you are looking for in relation to where you arem while the absolute file is in relation to the actual root of the file system itself.
+
+# Files
+* An important piece of information to know is that everything is actualy a file, from the software to how the hardware communicates with the software.
+* Maybe we are aware with passwords but linuxs terminal is case sensitive and can change the file you are trying to get to by makin a character capital or lower case. 
+* There is a method to hide or "unhide" files `` .`` before the file name. these files are not displayed, however if you want to display these files you can add `` -a `` 
+``ls -a Documents``
+* One of the most important features to be is the TAB feature where, you can hirt TAB after beinging to write a file name and it can pull it up for you by completeing the name (of coure more letters are better if necessary. 
+
 
 
