@@ -20,8 +20,8 @@ The conecept of an IDE is sort of like a box store like TARGET, it not only carr
 
 
 
-[^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
-[^2] :[Ryanstutorials.net](https://ryanstutorials.net/linuxtutorial/navigation.php)
+1. [^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
+2. [^2] :[Ryanstutorials.net](https://ryanstutorials.net/linuxtutorial/navigation.php)
 # ** BUT WAIT THERE'S MORE!!
 ![Drama Bomb](https://user-images.githubusercontent.com/99520664/165584450-f83632e1-bdb8-41c9-9b4e-325dd3088c6b.jpeg)
 
