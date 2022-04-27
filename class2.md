@@ -1,6 +1,6 @@
 # The Brain, A text editors most important extension (a story in 3 parts).
 
-# the sunkin ship *IS* the Treasure
+# the sunkin ship *is* the Treasure
  The Hunt tends to be a huge part of what we do, I mean we as humans were (are?) hunter gatheres and its kind of our thing. Although in this context we are mot hunting for food, we are hunting for a tool... a tool to help us not only wrangle text we are also wrangling computers and with that one could say we are wrangling imaginations, or just trying to make life alittle more simple by allowing our phone to unlock without removing your mask (the *mask* part was very telling of the era this was wrote.)
  # what is said treasure ?
  Its important to back track alittle bit and talk about what a text editor is. Okay really its just as it sounds, it edits text. It is very important tool for developer, because it is the devs. medium. it is our *canvas* so to speak. This is where we write those lines of awesome intricate looking code... those long strings, of beautifully colored code (some text editors have a highlight feature to make writing..most importantly reading code **easier**.) The hours spent to impress your friends to display "Hello World" (tears of joy) is often written on a Text Editor. Now a Text editor can be as intricate or as simple as you want, because there are options. There Visual Studios and Sublime (My favorite) they have really neat features that can help keep you from straining your eyes an even a screen on the side display your code with out having refresh your browser page update what is being displayed. There are many plug-ins to help ease the writing of code... lets not forget the predicitive text....(emmet) it does just as it sounds, it finishes your tags and there is even help to set you up with a closing tag, that can honestly 1/2 the amount of time spent Writing. The most simple form is a text editor we all have on our computers : Note pade, and text edit ( to name a few) are fully capabale of rendering code an can act as a platform for you to begin your coding journey. 
@@ -21,4 +21,8 @@ The conecept of an IDE is sort of like a box store like TARGET, it not only carr
 
 [^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
 
- 
+# ** BUT WAIT THERE'S MORE!!
+![Drama Bomb](https://user-images.githubusercontent.com/99520664/165584450-f83632e1-bdb8-41c9-9b4e-325dd3088c6b.jpeg)
+
+# Chapter 2: GUI and THE TERMINAL!!!
+most people assume and likely dont care too much to aknowledge what actually goes on within the computer and how it works, however some people do and we are likely those people. Most folks boot up ther computer, wait a few seconds and then enter their password and then off to the races to watch as many cat videos as possible, while listening to a podcat they enjoy all the while they are looking for a new spanish rice recipe. 
