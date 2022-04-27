@@ -38,6 +38,6 @@ Below I will note a "cheat sheet" for common shortcuts that will help navigate t
 1. **pwd** (Printing Working Directory): Tells you your current Space.
 2. **LS** (List) 
 3. **LS -l** (long list. Which states weither file is directoy (d)or normal file (-) with more inso stating permission, number of block, owner, group file belongs too. [^2]
-4.  
+4.
 
 
