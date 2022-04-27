@@ -9,6 +9,7 @@ The choice one makes really is dependant on what they feel most comfortable with
 # Beyong the editor (one step beyond).
 Beyond the text editors, we have IDE's ( Integrated  Developement Environment) which is a topic unto itself. Although there are differences, one of the most notable will be the ability to debug, Complile, and Manage files within the space.. for me thats like having a music studio and fully running kitchen staff in my house..I would have no reason to leave. An IDE has the ability to not just edit the text but to compile the text, what does it mean to compile the text ? W3 reads this
 >A compiler is system software (a set of a computer program) that converts source code written in a programming language (source language, usually HLL) into another computer language (target language). It processes every statement written in a particular programming language and turns them to machine language. After writing the program the programmer runs the code in an appropriate language compiler specifying the name of the file that contains the source statements. [^1]. 
+
 The conecept of an IDE is sort of like a box store like TARGET, it not only carries groceries, but your able to buy a TV, Socks, and maybe even a new pair of pants (or suspenders). Think of it as a one stop shop. I personally feel its a good choice to find a text editor that you can grow into... i did just that. I initially started out with SUblime text, but when i really started to enjoy and take to coding i went with VS code.
 
 ### dont be shy jump on in the water is fine. 
