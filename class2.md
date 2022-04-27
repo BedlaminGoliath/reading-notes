@@ -46,6 +46,5 @@ While utilizing the terminal of course you will have to get around, to do so you
 ``ls -a Documents``
 * One of the most important features to be is the TAB feature where, you can hirt TAB after beinging to write a file name and it can pull it up for you by completeing the name (of coure more letters are better if necessary. 
 
-
  [^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
  [^2]:[Ryanstutorials.net](https://ryanstutorials.net/linuxtutorial/navigation.php)
