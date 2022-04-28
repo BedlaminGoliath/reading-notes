@@ -48,3 +48,5 @@ While utilizing the terminal of course you will have to get around, to do so you
 
  [^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
  [^2]:[Ryanstutorials.net](https://ryanstutorials.net/linuxtutorial/navigation.php)
+ 
+ [<====Back](readme.md)
