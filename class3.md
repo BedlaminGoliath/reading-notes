@@ -22,5 +22,5 @@ There are various commands that can bet intered into the terminal, that can set 
 - Push: here is where you would push the file to a remote repo. `` git push origin master``
  the local branch is refered to as "master" and the remote branch os referred to as the "origin" (origin from which you cloned from). 
  
- [^1](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#3)
- [^2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#3)
+ - [^1](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#3)
+ - [^2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#3)
