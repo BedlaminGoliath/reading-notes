@@ -32,3 +32,7 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 #### Contact
 [*email*](mailto:chris_lopez@mailfence.com)
 
+### table of contents 
+ - [class 1 reading](class1.md)
+ - [class 2 reading](class2.md) 
+ - [class 3 reading](class3.md)
