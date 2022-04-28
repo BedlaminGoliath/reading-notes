@@ -17,7 +17,7 @@ unlike most installations everyone knows the easiest way to install Git is via t
 There are various commands that can bet intered into the terminal, that can set up yout file to be handled in which ever way you see fit. there are 3 stages;
 - Add: here you can enter ``git add filname`` to enter a specific file (or ``git add *`` to add all files
 
-- Commit: Here is where you commit the changes `` git commit`` and even leave notes stating those changes by using the `` -m`` at the end. ``` git commit -m (message here)``
+- Commit: Here is where you commit the changes `` git commit`` and even leave notes stating those changes by using the `` -m`` at the end. `` git commit -m (message here)``
 
 - Push: here is where you would push the file to a remote repo. `` git push origin master``
  the local branch is refered to as "master" and the remote branch os referred to as the "origin" (origin from which you cloned from). 
