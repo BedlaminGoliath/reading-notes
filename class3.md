@@ -32,12 +32,10 @@ There are various commands that can bet intered into the terminal, that can set 
  
  ##### *resources*
 
- [^1]:(https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
- [^2]:(https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+[^1]:(https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+[^2]:(https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
+  
 
-> Thank you for coming to my Ted Talks. 
-
-
- ## Hope you liked it or whatever
+ ## Thanks for coming to my Ted Talks, I Hope you liked it or whatever
 ![Lumpyspace princess](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6PAncSKEhn0tqzgPGxRY1AAAAA%26pid%3DApi&f=1)
