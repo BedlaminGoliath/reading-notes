@@ -31,7 +31,7 @@ Within terminals you have what is known as a shell, the shell and that bad boy i
 Below I will note a "cheat sheet" for common shortcuts that will help navigate this new world.
 1. **pwd** (Printing Working Directory): Tells you your current Space.
 2. **lS** (List) 
-3. **lS -l** (long list. Which states weither file is directoy (d)or normal file (-) with more inso stating permission, number of block, owner, group file belongs too. [^2]
+3. **lS -l** (long list) Which states weither file is directoy (d)or normal file (-) with more inso stating permission, number of block, owner, group file belongs too. [^2]
 4.(~) Is a short cut to home directory.
 5.(.) Is a reference to current directory.
 6.(..) Is a reference to parent directory.
@@ -49,4 +49,4 @@ While utilizing the terminal of course you will have to get around, to do so you
  [^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
  [^2]:[Ryanstutorials.net](https://ryanstutorials.net/linuxtutorial/navigation.php)
  
- [<====Back](readme.md)
+ [<====Back](README.md)
