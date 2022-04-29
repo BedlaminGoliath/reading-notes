@@ -11,7 +11,7 @@ Git is a form of a VSC(version control system) which allows the user to revisit 
 
 
 # Back story
-The beginning of Git goes back to an open source project Linux kernal("The **Linux kernel** is the foundation of the Linux computer operating system. A kernel is the lowest level of software that can interface with computer hardware."[1^]).Git allowed support for large projects and "... Possessed strong  mechanisms preventing corruption...[2^])s. With this model in mind Git has become very popular.
+The beginning of Git goes back to an open source project Linux kernal("The **Linux kernel** is the foundation of the Linux computer operating system. A kernel is the lowest level of software that can interface with computer hardware."[^1].Git allowed support for large projects and "... Possessed strong  mechanisms preventing corruption...)[^2]. With this model in mind Git has become very popular.
 unlike most installations everyone knows the easiest way to install Git is via the Terminal *see [chapter:2](class2.md)*
 
 ## Local Repository Structure
@@ -28,10 +28,9 @@ There are various commands that can bet intered into the terminal, that can set 
 
 - Push: here is where you would push the file to a remote repo. `` git push origin master``
  the local branch is refered to as "master" and the remote branch os referred to as the "origin" (origin from which you cloned from). 
- 
- 
-##### *resources*
 
+ 
+ *resources*
 [^1]: [udemyblog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 [^2]: [udemyblog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
