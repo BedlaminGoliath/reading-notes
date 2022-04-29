@@ -32,8 +32,8 @@ There are various commands that can bet intered into the terminal, that can set 
  
 ##### *resources*
 
-[^1]: (https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
-[^2]: (https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+[^1]: [udemyblog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+[^2]: [udemyblog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 
   
 
