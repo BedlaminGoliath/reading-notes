@@ -1,7 +1,7 @@
 # Git with it
 Git is a form of a VSC(version control system) which allows the user to revisit past versions of a file by taking a "snapshot" of previous saves, without mudding up the save folder. This helps a user back track to make changes to a earlier "save" or to revert back to the past snapshot all together, perhaps because it was better off before it "jumped the shark". Tnis feature is great help against a corrupt file messing up the file after a certain point, with Git the team (or individual) would be able to revert back prior to the problems focal point.
 
-there is 3 version controls:
+there are 3 version controls:
 - Local version control *saves versions on users hard disk* for singular use.
 
 - Centralized Version Control *This allows team or group to view and edit a file and collaborate*
@@ -24,5 +24,7 @@ There are various commands that can bet intered into the terminal, that can set 
  
  
  ##### *resources*
+
   - [^1](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#3)
   - [^2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#3)
+
