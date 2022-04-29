@@ -13,6 +13,7 @@ there are 3 version controls:
 The beginning of Git goes back to an open source project Linux kernal("The **Linux kernel** is the foundation of the Linux computer operating system. A kernel is the lowest level of software that can interface with computer hardware."[1^]).Git allowed support for large projects and "... Possessed strong  mechanisms preventing corruption...)[2^]. With this model in mind Git has become very popular.
 unlike most installations everyone knows the easiest way to install Git is via the Terminal *see [chapter:2](class2.md)*
 
+## Important commnands in the ACP process
 
 There are various commands that can bet intered into the terminal, that can set up yout file to be handled in which ever way you see fit. there are 3 stages;
 - Add: here you can enter ``git add filname`` to enter a specific file (or ``git add *`` to add all files
