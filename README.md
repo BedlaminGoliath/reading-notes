@@ -2,7 +2,7 @@
 
 ## About myself 
 Hello, my name is Christopher Lopez, I am 32 and currently work at Trader Joe's and I have been with that company for rougly **14 YEARS!!**.
-I grew up in a house where music 🎶 was a top "prioty". I grew up a drummer like my father and brother but of course learning to play several instrumemts was a *must* as well. besides ~~playing~~ *knowing* Drums well I feel proficient with playing the guitar 🎸. However I can play others, but mainly based off of my study of music theory in college several years ago and not so much based off of the technical aspect of each intrument. Besides playing music i love listening to music of differet genres, my big time **favorites** have largely remained the same over the years. 
+I grew up in a house where music 🎶 was a top "prioty". I grew up a drummer like my father and brother but of course learning to play several instrumemts was a *must* as well. besides ~~playing~~ Drums well I feel proficient with playing the guitar 🎸. However I can play others, but mainly based off of my study of music theory in college several years ago and not so much based off of the technical aspect of each intrument. Besides playing music I love listening to music of differet genres, my big time **favorites** have largely remained the same over the years. 
         
 ### What I am listening to now
 - The Mars Volta 
@@ -27,7 +27,7 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 # *Bonus Round* 
 ### (how to keep a growth mindset)
 
-- Most importantly: You have got to keep making more money to keep the guitar pedals comning in and the squirrels (and wife) fed :shipit:
+- Most importantly: You have got to keep making more money to keep the guitar pedals coming in and to keep the squirrels (and wife) fed. :shipit:
 
 #### Contact
 [*email*](mailto:chris_lopez@mailfence.com)
@@ -37,5 +37,3 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
  - [class 1 reading](class1reading.md)
  - [class 2 reading](class2.md) 
  - [class 3 reading](class3.md)
-
-   [<====Back](readme.md)
