@@ -3,12 +3,12 @@
 
 
 # Git with it
-Git is a form of a VSC(version control system) which allows users to revisit past versions of a file by taking a "snapshot" of previous saves, without mudding up the save folder. This helps a user back track to make changes to a earlier "save" or to revert back to the past snapshot all together, perhaps because it was better off before it "jumped the shark". This feature is a great help against a corrupt file messing up the project after a certain point, with Git the team (or individual) would be able to revert back prior to the problem and get back to work.
+Git is a form of a VSC (version control system) which allows users to revisit past versions of a file by taking a "snapshot" of previous saves without mudding up the save folder with various saves (weve all done it with school papers or music files ``Song(1)reallyDoneThisTime``). This helps a user back track to make changes to an earlier "save" or to revert back to the past snapshot all together, perhaps because it was better off before due to a user error or due to a technical error. This feature is a great help against a corrupt file messing up the project after a certain point, with Git the team (or individual) would be able to revert back prior to the problem and get back to work.
 
 
-## 3 version controls:
+## 3 Version Controls:
 
-- Local version control *saves versions on users hard disk* for singular use.*
+- Local version control *saves versions on users hard disk* (for singular use.)
 
 - Centralized Version Control *This allows team or group to view and edit a file and collaborate*
 
@@ -55,6 +55,8 @@ There are various commands that can be entered into the terminal, which will set
 
 - Push: here is where you would push the file to a remote repo. `` git push origin master``
  the **local** branch is refered to as "master" and the **remote** branch is referred to as the "origin" (origin from which you cloned from). 
+
+
 
 [^1]: [udemyblog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
 [^2]: [udemyblog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
