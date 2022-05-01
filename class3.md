@@ -45,10 +45,14 @@ There are various commands that can bet intered into the terminal, that can set 
 
 ![Lumpyspace princess](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6PAncSKEhn0tqzgPGxRY1AAAAA%26pid%3DApi&f=1)
 
-[What-is-git](#git-with-it)
 
-[Back-Story](#back-story)
 
-[Important-ACP-Commands](#important-commnands-in-the-acp-process)
+- [What-is-git](#git-with-it)
+
+- [Back-Story](#back-story)
+
+- [Important-ACP-Commands](#important-commnands-in-the-acp-process)
+
+
 
 [<===Back](README.md)
