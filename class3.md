@@ -32,7 +32,7 @@ The beginning of Git goes back to an open source project Linux kernal
  
   Git allowed support for large projects and "... Possessed strong  mechanisms preventing corruption...[^2]. 
   
-  With this model in mind Git has become very popular. Git was realy took a foot hold in 2005 after, this is when there was a divide amongst the Linux kernal community and the company that was behind BitKeeper (a DCVS which was popular amongst Devs in 2002). Little did everyone realize this tension would be the spring board for what would argueably become one of the most important tools for Devs. across the globe.
+  With this model in mind Git has become very popular. Git was realy took a foot hold in 2005 after, this is when there was a divide amongst the Linux kernal community and the company that was behind BitKeeper (a DCVS which was popular amongst Devs in 2002). Little did everyone realize this tension would be the spring board for what would argueably become one of the most important tools for Developers across the globe.
 
 **fun fact**
 unlike most installations everyone knows the easiest way to install Git is via the Terminal *see [chapter:2](class2.md)*
@@ -43,13 +43,13 @@ unlike most installations everyone knows the easiest way to install Git is via t
 
 *****
 
-# Important commnands in the ACP process
+# Important commands in the ACP process
 
 There are various commands that can be entered into the terminal, which will set up your file to be handled in which ever way you see fit for editing or coding that will allow you to work from your CPU and save your changes remotely every step of the way.
 
  there are 3 stages;
 
-- Add: here you can enter ``git add "filname"`` to enter a specific file (or ``git add *`` to add all files)
+- Add: here you can enter ``git add filname`` to enter a specific file (or ``git add *`` to add all files)
 
 - Commit: Here is where you commit the changes ``git commit`` and even leave notes stating those changes by using the `` -m`` at the end. `` git commit -m (message here)``.
 
