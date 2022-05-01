@@ -16,6 +16,11 @@ Git is a form of a VSC(version control system) which allows users to revisit pas
 
 
 # Back story
+
+
+![HistoryBook](https://media.istockphoto.com/photos/open-old-book-on-rustic-wooden-table-picture-id1162175290?k=6&m=1162175290&s=170667a&w=0&h=W364_4lKkzvSdRPH50iFZG6_Vixd-eGn9DvC21MRjjM=)
+
+
 The beginning of Git goes back to an open source project Linux kernal
 
  "The **Linux kernel** is the foundation of the Linux computer operating system. A kernel is the lowest level of software that can interface with computer hardware."[^1].
