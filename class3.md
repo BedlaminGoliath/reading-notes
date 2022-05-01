@@ -1,3 +1,6 @@
+![Binary](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.FKTdx7odngCs3P3WlteO1gHaFj%26pid%3DApi&f=1)
+
+
 # Git with it
 Git is a form of a VSC(version control system) which allows users to revisit past versions of a file by taking a "snapshot" of previous saves, without mudding up the save folder. This helps a user back track to make changes to a earlier "save" or to revert back to the past snapshot all together, perhaps because it was better off before it "jumped the shark". This feature is a great help against a corrupt file messing up the project after a certain point, with Git the team (or individual) would be able to revert back prior to the problem and get back to work.
 
