@@ -40,10 +40,6 @@ unlike most installations everyone knows the easiest way to install Git is via t
 
 
 
-## Local Repository Structure
-
-**Working Directory** :arrow_forward: **Index** :arrow_forward: **Index**
-
 
 *****
 
@@ -52,7 +48,7 @@ unlike most installations everyone knows the easiest way to install Git is via t
 There are various commands that can be entered into the terminal, which will set up your file to be handled in which ever way you see fit for editing or coding that will allow you to work from your CPU and save your changes remotely every step of the way.
 
  there are 3 stages;
- 
+
 - Add: here you can enter ``git add "filname"`` to enter a specific file (or ``git add *`` to add all files)
 
 - Commit: Here is where you commit the changes ``git commit`` and even leave notes stating those changes by using the `` -m`` at the end. `` git commit -m (message here)``.
