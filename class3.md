@@ -3,6 +3,7 @@
 
 
 # Git with it
+  :---:
 Git is a form of a VSC (version control system) which allows users to revisit past versions of a file by taking a "snapshot" of previous saves without mudding up the save folder with various saves (weve all done it with school papers or music files ``Song(1)reallyDoneThisTime``). This helps a user back track to make changes to an earlier "save" or to revert back to the past snapshot all together, perhaps because it was better off before due to a user error or due to a technical error. This feature is a great help against a corrupt file messing up the project after a certain point, with Git the team (or individual) would be able to revert back prior to the problem and get back to work.
 
 
@@ -65,7 +66,7 @@ There are various commands that can be entered into the terminal, which will set
 
 ![Lumpyspace princess](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6PAncSKEhn0tqzgPGxRY1AAAAA%26pid%3DApi&f=1)
 
-
+*****
 
 - [What-is-git](#git-with-it)
 
