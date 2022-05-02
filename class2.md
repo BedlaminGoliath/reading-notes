@@ -59,9 +59,6 @@ While utilizing the terminal of course you will have to get around, to do so you
 
 *****
 
- [^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
- [^2]:[Ryanstutorials.net](https://ryanstutorials.net/linuxtutorial/navigation.php)
- 
 
 
 *table of contents:*
@@ -69,3 +66,9 @@ While utilizing the terminal of course you will have to get around, to do so you
 * [Class3](class3.md)
 
 * [<====Back](README.md)
+
+*resources:*
+
+ [^1]:[W3 complier link](https://www.w3schools.in/what-is-compiler)
+ [^2]:[Ryanstutorials.net](https://ryanstutorials.net/linuxtutorial/navigation.php)
+ 
