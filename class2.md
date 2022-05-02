@@ -18,10 +18,10 @@ The conecept of an IDE is sort of like a box store like TARGET, it not only carr
 
 ![comfortable](https://user-images.githubusercontent.com/99520664/165551583-7d2e0e35-42d7-4fa8-a136-a642c0d7ed26.jpeg)
 
-*****
 
 ![fin](https://i.ytimg.com/vi/77xkcpf3KDw/hqdefault.jpg)
 
+*****
 
 # ** BUT WAIT THERE'S MORE!!
 ![Drama Bomb](https://user-images.githubusercontent.com/99520664/165584450-f83632e1-bdb8-41c9-9b4e-325dd3088c6b.jpeg)
@@ -63,7 +63,7 @@ While utilizing the terminal of course you will have to get around, to do so you
 
 
 *table of contents:*
-[Class1](class1reading.md)
-[Class3](class3.md)
+* [Class1](class1reading.md)
+* [Class3](class3.md)
 
-[<====Back](README.md)
+* [<====Back](README.md)
