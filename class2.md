@@ -23,7 +23,7 @@ The conecept of an IDE is sort of like a box store like TARGET, it not only carr
 
 *****
 
-# ** BUT WAIT THERE'S MORE!!
+# BUT WAIT THERE'S MORE!!
 ![Drama Bomb](https://user-images.githubusercontent.com/99520664/165584450-f83632e1-bdb8-41c9-9b4e-325dd3088c6b.jpeg)
 
 # Chapter 2: GUI and THE TERMINAL!!!
