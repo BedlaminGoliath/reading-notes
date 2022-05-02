@@ -33,17 +33,19 @@ I very much so like the simplicity of making a list with markdown though opposed
  1. list item 3 
 
 
+
+
 ## Tables
 
- | Syntax            | Description | Output                            |
- | :---              |  :---:      |  ---:                             |
- | ``**text**``      | Bold        | **TEXT**                          |
- | ``*Text*``        | Italics     | *Output*                          |
- | [Alt](example.com)| Link        | [google](https://www.google.com)  |
+ | Syntax             |  Description |  Output                            |
+ | :---               |     :---:    |   ---:                             |
+ | ``**text**``       |  Bold        |  **TEXT**                          |
+ | ``*Text*``         |  Italics     |  *Output*                          |
+ | [Alt](example.com) |  Link        |  [google](https://www.google.com)  |
 
  *****
 
 
 * [class2](class2.md)
 * [class3](class3.md)
-* [<===](README.md)
+* [<===Back](README.md)
