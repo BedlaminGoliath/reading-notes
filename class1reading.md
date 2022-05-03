@@ -45,7 +45,8 @@ I very much so like the simplicity of making **list** with markdown though oppos
 
  *****
 
-
+ *table of contents:*
+ 
 * [class2](class2.md)
 * [class3](class3.md)
 * [class3-retro](class3-retro.md)
