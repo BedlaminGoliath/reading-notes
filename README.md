@@ -1,5 +1,5 @@
 # HOME 
-### |[CLASS1](class1reading.md)|[CLASS2](class2.md)|[CLASS3](class3.md)|[CLASS3-RETRO](class3-retro.md)
+## | [CLASS1](class1reading.md) | [CLASS2](class2.md) | [CLASS3](class3.md) | [CLASS3-RETRO](class3-retro.md)
     
 ## My growth mindset, how I intend to keep it, and alittle bit about myself.
 
@@ -30,7 +30,7 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 # *Bonus Round* 
 ### (how to keep a growth mindset)
 
-- Most importantly: You have got to keep making more money to keep the guitar pedals coming in and to keep the squirrels and wife fed. :shipit:
+- Most importantly: You have got to keep making more money to keep the guitar pedals coming in and to keep the squirrels and wife fed.
 
 *****
 
