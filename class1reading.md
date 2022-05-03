@@ -15,13 +15,13 @@ The "block quotes with multiple paragraphs" is also a really neat feature I have
 The easy use of the "link feature" ``[link text](example.com)`` in place of what be an anchor tag, makes sharing links and creating interactive contacts (like email socail media links) extremely easy and intuitive. This "language" is very straight forwards and seems to offer very clean "code"(can i say that?)
 The ease of sharing images are also very pleasing feature, that once again is straight forward.
 
-
+> Below is an example of an image
 ![bonus round image](http://static1.1.sqspcdn.com/static/f/278256/4975825/1260037523887/secret2.1.png?token=B4erQO5mDnr6MMB28Sxpka%2Ber%2BE%3D)
 
 
 
 ## Perhaps the most pleasing thing I learned.
-I very much so like the simplicity of making a list with markdown though opposed to all  the syntax used in HTML for both ordered lists and unordered lists.
+I very much so like the simplicity of making **list** with markdown though opposed to all  the syntax used in HTML for both ordered lists and unordered lists.
 
 
 
@@ -48,5 +48,5 @@ I very much so like the simplicity of making a list with markdown though opposed
 
 * [class2](class2.md)
 * [class3](class3.md)
-  [class3-retro](class3-retro.md)
+* [class3-retro](class3-retro.md)
 * [<===Back](README.md)
