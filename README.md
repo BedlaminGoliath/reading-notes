@@ -1,5 +1,5 @@
-#  HOME 
-###|[CLASS1](class1reading.md)|[CLASS2](class2.md)|[CLASS3](class3.md)|[CLASS3-RETRO](class3-retro.md)
+# HOME 
+### |[CLASS1](class1reading.md)|[CLASS2](class2.md)|[CLASS3](class3.md)|[CLASS3-RETRO](class3-retro.md)
     
 ## My growth mindset, how I intend to keep it, and alittle bit about myself.
 
@@ -32,12 +32,8 @@ For Me A growth mindset is about perseverance. Its about "Showing up" and giving
 
 - Most importantly: You have got to keep making more money to keep the guitar pedals coming in and to keep the squirrels and wife fed. :shipit:
 
+*****
+
 #### Contact
 [*email*](mailto:chris_lopez@mailfence.com)
 
-### table of contents 
-
- - [class 1 reading](class1reading.md)
- - [class 2 reading](class2.md) 
- - [class 3 reading](class3.md)
- - [class 3 retrospect](class3-retro.md)
