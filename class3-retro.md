@@ -14,16 +14,16 @@ The git pull command is used to fetch and download content from a remote reposit
 
 It is very possible I am wrong or incomplete with my findings, however from my few years of researching and learning about coding, learning to problem solve is a big part of this and im happy I managed to pull this off.
 
-Another this I learned was the importance of using the comments method in markdown, as well as any language, by taking notes I would have saved myself alot of ``commits`` that did not need to happen. Although I am happy to have gotten so much practice on this (which i feel is important to how i learn) I feel I commited WAAAY too much... however... I still walked away with a lesson on the importance of (as mentioned above) leaving myself comments.
+Another thing I learned was the importance of using the comments in markdown, as well as any language, by taking notes I would have saved myself alot of ``commits`` that did not need to happen. Although I am happy to have gotten so much practice on this (which I feel is important to how I learn) I feel I commited WAAAY too much... however... I still walked away with a lesson on the importance of (as mentioned above) leaving myself comments.
 
 *****
 
 
  *table of contents:*
 
-* [ReadME](README.md)
-* [classs1](class1reading.md)
+* [Home](README.md)
+* [class1](class1reading.md)
 * [class2](class2.md)
-* [class3](class3.md
-)
+* [class3](class3.md)
+
  [^1]:(https://stackoverflow.com/questions/52108832/what-is-the-difference-between-git-pull-and-git-pull-origin-master)
