@@ -66,7 +66,7 @@ While utilizing the terminal of course you will have to get around, to do so you
 * [Class1](class1reading.md)
 * [Class3](class3.md)
 * [Class3_retro](class3-retro.md)
-* [<====Back](README.md)
+* [Home](README.md)
 
 *resources:*
 
