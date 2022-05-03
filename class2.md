@@ -43,6 +43,7 @@ Below I will note a "cheat sheet" for common shortcuts that will help navigate t
 1. **pwd** (Printing Working Directory): Tells you your current Space.
 2. **lS** (List) 
 3. **lS -l** (long list) Which states weither file is directoy (d)or normal file (-) with more inso stating permission, number of block, owner, group file belongs too. [^2]
+
 4.(~) Is a short cut to home directory.
 5.(.) Is a reference to current directory.
 6.(..) Is a reference to parent directory.
@@ -64,7 +65,7 @@ While utilizing the terminal of course you will have to get around, to do so you
 *table of contents:*
 * [Class1](class1reading.md)
 * [Class3](class3.md)
-
+* [Class3_retro](class3-retro.md)
 * [<====Back](README.md)
 
 *resources:*
