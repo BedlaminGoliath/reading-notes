@@ -78,6 +78,9 @@ There are various commands that can be entered into the terminal, which will set
 *****
 
 
-[<===Back](README.md)
+* [Home](README.md)
+* [class1](class1reading.md)
+* [class2](class2.md)
+* [class3-retro](class3-retro.md)
 
 *****
