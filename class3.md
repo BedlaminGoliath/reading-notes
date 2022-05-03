@@ -77,7 +77,7 @@ There are various commands that can be entered into the terminal, which will set
 
 *****
 
-
+ *table of contents:*
 * [Home](README.md)
 * [class1](class1reading.md)
 * [class2](class2.md)
