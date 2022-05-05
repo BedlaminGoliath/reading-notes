@@ -21,9 +21,10 @@ Another thing I learned was the importance of using the comments in markdown, as
 
  *table of contents:*
 
-* [Home](README.md)
+* [Home](readme.md)
 * [class1](class1reading.md)
 * [class2](class2.md)
 * [class3](class3.md)
+* [class4](class4.md)
 
  [^1]:(https://stackoverflow.com/questions/52108832/what-is-the-difference-between-git-pull-and-git-pull-origin-master)

@@ -36,3 +36,9 @@ Semantics are refering to what the code actually means, it referes to what will 
 
 these are very upfront about what their use is.The ``<h1>`` element and what is accomplishes is another easy one to understand, the "header" element enlarges the content within... by using simply one "tag"...there is another way to make the text larger however it require a "work around" and ends up being abit more "wordy" and cluttered there fore leaving the code a bit more messy whish isnt good in the world of coding. This approach may have some syntax value however it has no semantic value.
  Through various languages we utilize different syntax to accomplish a result that can be defined semantically the same.
+
+ * [home](readme.md)
+ * [class1](class1reading.md)
+ * [class2](class2.md)
+ * [class3](class3.md)
+ * [class3-retro](class3-retro.md)

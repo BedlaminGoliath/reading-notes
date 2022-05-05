@@ -78,9 +78,10 @@ There are various commands that can be entered into the terminal, which will set
 *****
 
  *table of contents:*
-* [Home](README.md)
+* [Home](readme.md.md)
 * [class1](class1reading.md)
 * [class2](class2.md)
 * [class3-retro](class3-retro.md)
+* [class4](class4.md)
 
 *****

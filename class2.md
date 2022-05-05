@@ -63,10 +63,11 @@ While utilizing the terminal of course you will have to get around, to do so you
 
 
 *table of contents:*
+* [Home](readme.md)
 * [Class1](class1reading.md)
 * [Class3](class3.md)
 * [Class3_retro](class3-retro.md)
-* [Home](README.md)
+* [Class4](class4.md)
 
 *resources:*
 
