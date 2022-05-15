@@ -33,7 +33,7 @@
 
     Thats right! we just added words together! we got "z = john doe"... or you could say we used a "string". Now a string is written **inside** double quotes ("")... so with that being said it is possible to treat your numbers like we treated our words. instead of getting ``z = 11`` we would end up with ``z = 56`` simply by putting a double quote around the numbers... even putting it around one number would do the trick. 
 
-    ### Beyond Javascript
+### Beyond Javascript
 
     Now beyohd any language I feel its important to look at the computer as a whole. like "What makes a computer?" well to put simply a computer is there to manipulateb information. Now its obvious inorder to manipulate said information it would first need to recieve the information. Which brings me to my next point, every computer be it your: phone, tablet, desktop, watch etc. has 4 key functions... and these help answer the question "what makes a computer" a computer shoud be able to Reciece Information, store that information, process the information, then out put the information... that little bit if info I just gave you probably set off a light bulb in your head... thats right i just made your head a computer! an that new thought/ light bulb/ smirk was the output. I gave you the input, you repeated it and stored it, then processed it, then out came the images of every computer you have used, you probably feel a wrinkle in your brain forming as well. 
 
