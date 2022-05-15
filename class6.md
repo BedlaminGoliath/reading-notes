@@ -21,19 +21,23 @@ Now we have this info what can we do with it? well.. this is more about what Jav
 
 Javascript is kind of like algebra.. with all this talk of "variable" its easy to feel like youre in math class right now. Much like I stated earlier variables hold values
 
- ``let x = 5;
+```js
+let x = 5;
 
   let y = 6;
 
-  let z = x + y;``
+  let z = x + y;
+```
 
 This is would leave you with the answer being "11".. see... its alot like algebra, not exactly.. but it does carry some of the principles. However unlike algebra you can you have these variables hold not just numbers but they can also hold "text values ('john doe') we also refer to as "strings" thats right we can rewrite that example above like this
 
- ``let x = "john";
+ ```js
+ let x = "john";
 
   let y = "doe";
-  
-  let z = x + y;``
+
+  let z = x + y;
+  ```
 
 Thats right! we just added words together! we got ``z = john doe``... or you could say we used a "string". Now a string is written **inside** double quotes ("")... so with that being said it is possible to treat your numbers like we treated our words. instead of getting ``z = 11`` we would end up with ``z = 56`` simply by putting a double quote around the numbers... even putting it around one number would do the trick.
 
