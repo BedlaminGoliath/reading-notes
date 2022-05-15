@@ -10,28 +10,28 @@ Javascript works with 3 variable declarations (var,let,const.) these three optio
 
 Now we have this info what can we do with it? well.. this is more about what Javascript can do with it in the right hands. Javascript can run code in response to what is happening on the page, This brings up another topic "APIs" an API (Application Programming Interface). These are premade "code blocks" that helps the developer do certain things simply, that would otherwise be kind of a pain to do. Think of These like ikea furniture... no, not cause its cheaply made, more because it is essentially snapping some larger premade pieces together inorder to make that large piece come together much quicker than having to make those individual components on your own. Those pieces are premade and much like legos they come together with ease... or atleast they should. There a few different kinds of API's:
 
-    1. DOM (document object Model): This helps you manipulate the HTML/CSS in real time "dynamically".. think like pop up windows and such
-    2. Geolocation: This gets geographical info, like google maps.
-    3. Canvas: This allows devs to creat either 2d or 3d graphics
-    4. Audio & Video API: This one lets you do as it sounds. this lets you embed Video and even lets you play audio on the page
-    5. Twitter API: This lets people display their tweets on a page.
-    6. Google maps: This allows the user to embed maps info on the site.
+1. DOM (document object Model): This helps you manipulate the HTML/CSS in real time "dynamically".. think like pop up windows and such
+2. Geolocation: This gets geographical info, like google maps.
+3. Canvas: This allows devs to creat either 2d or 3d graphics
+4. Audio & Video API: This one lets you do as it sounds. this lets you embed Video and even lets you play audio on the page
+5. Twitter API: This lets people display their tweets on a page.
+6. Google maps: This allows the user to embed maps info on the site.
 
 ### More About
 
-Javascript is kind of like algebra.. with all this talk of "variable" its easy to feel like youre in math class right now. Much like I stated earlier variables hold values 
+Javascript is kind of like algebra.. with all this talk of "variable" its easy to feel like youre in math class right now. Much like I stated earlier variables hold values
 
-    ``let x = 5;
-      let y = 6;
-      let z = x + y:``
+``let x = 5;
+let y = 6;
+let z = x + y:``
 
-This is would leave you with the answer being "11".. see... its alot like algebra, not exactly.. but it does carry some of the principles. However unlike algebra you can you have these variables hold not just numbers but they can also hold "text values ('john doe') we also refer to as "strings" thats right we can rewrite that example above like this 
+This is would leave you with the answer being "11".. see... its alot like algebra, not exactly.. but it does carry some of the principles. However unlike algebra you can you have these variables hold not just numbers but they can also hold "text values ('john doe') we also refer to as "strings" thats right we can rewrite that example above like this
 
-    ``let x = "john";
-      let y = "doe";
-      let z = x + y; ``
+``let x = "john";
+let y = "doe";
+let z = x + y;``
 
-Thats right! we just added words together! we got "z = john doe"... or you could say we used a "string". Now a string is written **inside** double quotes ("")... so with that being said it is possible to treat your numbers like we treated our words. instead of getting ``z = 11`` we would end up with ``z = 56`` simply by putting a double quote around the numbers... even putting it around one number would do the trick. 
+Thats right! we just added words together! we got "z = john doe"... or you could say we used a "string". Now a string is written **inside** double quotes ("")... so with that being said it is possible to treat your numbers like we treated our words. instead of getting ``z = 11`` we would end up with ``z = 56`` simply by putting a double quote around the numbers... even putting it around one number would do the trick.
 
 ### Beyond Javascript
 
