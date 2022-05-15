@@ -14,7 +14,7 @@
     2. Geolocation: This gets geographical info, like google maps.
     3. Canvas: This allows devs to creat either 2d or 3d graphics
     4. Audio & Video API: This one lets you do as it sounds. this lets you embed Video and even lets you play audio on the page
-    5.Twitter API: This lets people display their tweets on a page.
+    5. Twitter API: This lets people display their tweets on a page.
     6. Google maps: This allows the user to embed maps info on the site.
 
 ### More About
