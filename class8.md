@@ -57,7 +57,7 @@ Loops are often used as a quick and easy way to repeat something until a certain
 
 There are few different necessary expressions needed inorder to ensure a loop functions as it should.. There are several different types of loops however I will talk about two different types.
 
-The ``for`` loop is a 4 part loop.
+The ``for`` loop is a 3 part loop (4 for statement)
 
 ```js
 for([intialExpression]; [conditionExpression]; [incrementExpression])
