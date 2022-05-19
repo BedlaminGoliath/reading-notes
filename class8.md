@@ -50,3 +50,24 @@ There is another type of expression, a type that we visited in my talk of assign
 * Primary: Basic keywords and basic expressions.
 
 * left-hand-side: where the left side of the operator are the area of assignment.
+
+### Loops
+
+Loops are often used as a quick and easy way to repeat something until a certain condition is met (or condition is evaluated as false).
+
+There are few different necessary expressions needed inorder to ensure a loop functions as it should.. There are several different types of loops however I will talk about two different types.
+
+The ``for`` loop is a 4 part loop.
+
+```js
+for([intialExpression]; [conditionExpression]; [incrementExpression])
+statement
+```
+The above example shows the peices needed for a simple ``for`` loop and below we have  "realworld" example. 
+```js
+for (let jump=0; jump <10; jump ++)
+  ```
+  
+### While loops
+
+Another type of loop is refered to as a "while loop" executes *as long as the conditions evaluates as **true***. This difference is that within a ``for`` loop the amount of loops is already known ``jump <10`` and the loop will run until we get 10 jumps. while a ``while`` loop will run until the specified conditiom is continues to be true.
